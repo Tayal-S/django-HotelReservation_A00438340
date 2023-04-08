@@ -11,7 +11,6 @@ Use GET method to retrieve all the hotels stored and use POST to add new hotel d
 
 To run this code:
 
-inst
 
 
 python manage.py makemigrations
